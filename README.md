@@ -15,12 +15,6 @@ Distinguished Software Engineer at **NAVA - Technology for Business**. Passionat
 - **AI & Data Science:** Observability, AI-driven Root Cause Analysis, Generative AI
 - **Frontend:** React.js, Angular
 
-For more details, check the full list in my LinkedIn profile.
-- **Smartphone Emerging Technologies**
-- **Learning Kubernetes**
-- **Getting Started with Google Kubernetes Engine**
-- **Kubernetes: Microservices**
-
 ## 📌 Featured Projects
 Here are some of the key projects I have worked on:
 
