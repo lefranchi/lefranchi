@@ -61,6 +61,7 @@ Developed a **Learning Management System (LMS)** for **Universidade Anhembi Moru
 For more details, visit my [GitHub repositories](https://github.com/lefranchi).
 
 ## 📄 Articles
+- [Architecture vs Design: A Didactic Story About Decisions, Code, and Fitness Functions] (https://leandrofranchi.medium.com/architecture-vs-design-a-didactic-story-about-decisions-code-and-fitness-functions-41a4242fcc8e)
 - [System Design for BAM Application](https://leandrofranchi.medium.com/system-design-for-bam-application-28b009bc9b92)
 - [How to Design a Notification System](https://leandrofranchi.medium.com/how-to-design-a-notification-system-23f381cdeb00)
 - [Como a Escolha da Arquitetura Computacional Influencia a Engenharia de Dados](https://leandrofranchi.medium.com/como-a-escolha-da-arquitetura-computacional-influencia-a-engenharia-de-dados-5d30d2b95d6f)
