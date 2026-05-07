@@ -1,4 +1,4 @@
-# 👨‍💻 Leandro Franchi | Distinguished Software Engineer
+# 👨‍💻 Leandro Franchi | Principal Software Engineer
 
 ![Architecture](https://img.shields.io/badge/Distributed_Architecture-005f73?style=for-the-badge)
 ![Observability](https://img.shields.io/badge/Observability_and_Reliability-0a9396?style=for-the-badge)
@@ -7,7 +7,7 @@
 ![Mentoring](https://img.shields.io/badge/Technical_Mentoring-3a0ca3?style=for-the-badge)
 
 ## 🚀 About Me
-Distinguished Software Engineer at **NAVA - Technology for Business**. Passionate about **Software Development, AI, and Cloud Computing**, I have been developing and leading software projects for over **25 years**. My expertise includes **large-scale mission-critical systems, DevOps, and AI-driven observability platforms**.
+Principal Software Engineer at **NAVA - Technology for Business**. Passionate about **Software Development, AI, and Cloud Computing**, I have been developing and leading software projects for over **25 years**. My expertise includes **large-scale mission-critical systems, DevOps, and AI-driven observability platforms**.
 
 ## 🔥 Key Expertise
 - **Software Engineering:** Java (Spring, Apache Camel), Python, Node.js
